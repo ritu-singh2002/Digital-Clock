@@ -1,0 +1,50 @@
+html, body{
+    background-image: url(Bg.jpg);
+    -webkit-background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    display: grid;
+    height: 100%;
+    place-items: center;
+}
+.box .container{
+
+    border-radius: 25px;
+    margin-left: 1.5%;
+    margin-right: 1.5%;
+    margin-top: 1%;
+    margin-bottom:1%;
+    height: 285px;
+    
+}
+#heading{
+    margin-top: 0%;
+    margin-bottom: 0px;
+    font-size: 1200%;
+    text-align: center;
+    color:antiquewhite;
+    filter: brightness(%);
+    padding-top: 4%;
+}
+
+#din{
+    text-align: center;
+    font-size: 200%;
+    padding-bottom: 30px;
+    margin-top: 6.5%;
+    color:darkgray;
+    filter: brightness(100%);
+}
+
+.box{
+    background-color: transparent;
+    border-radius: 30px;
+    height: 300px;
+    width: 760px;
+    margin-top: -25%;
+    border: 2px solid lightgrey;
+    
+}
+
+
